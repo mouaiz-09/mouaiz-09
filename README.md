@@ -10,14 +10,14 @@ I am a passionate web developer, interested in front-end development and user ex
 🌍 I'm from **Algeria**, and I'm **15 years old**.  
 
 ## 🛠 Skills & Technologies  
-- 💻 **Web Technologies**: HTML, CSS, JavaScript, PHP  
-- 🗄 **Databases**: MySQL  
-- ⚙ **Frameworks**: Bootstrap  
+- 💻 **Web Technologies**: HTML, CSS, JavaScript,nod.js-express  
+- 🗄 **Databases**: mongo db  
+- ⚙ **Frameworks**: tl  
 - 🖥 **Operating Systems**: Ubuntu  
 
 ## 📌 Current Projects  
-- 🚀 Working on **Book DZ**, a template for an online library using PHP and MySQL.  
-- 📚 Learning **MySQL** and applying it to my projects.  
+- 🚀 Working on **Book DZ**
+- 📚 Learning **nod.js-express ,Mongo-db** and applying it to my projects.  
 
 ## 📫 How to Reach Me?  
 - 📧 **Email**: rlqyyn@gmail.com  
@@ -40,13 +40,13 @@ I am a passionate web developer, interested in front-end development and user ex
 🌍 أنا من **الجزائر** وعُمري **15 سنة**.
 
 ## 🛠 المهارات والتقنيات
-- 💻 **تقنيات الويب**: HTML, CSS, JavaScript, PHP
-- 🗄 **قواعد البيانات**: MySQL
-- ⚙ **إطارات العمل**: Bootstrap
+- 💻 **تقنيات الويب**: HTML, CSS, JavaScript,nod.js-express ,Mongo-db**
+- - 🗄 **قواعد البيانات**: **Mongo-db**
+- ⚙ **إطارات العمل**: tlw
 - 🖥 **أنظمة التشغيل**: Ubuntu
 
 ## 📌 المشاريع الحالية
-- 🚀 أعمل على مشروع **Book DZ**، وهو قالب لمكتبة إلكترونية باستخدام PHP وMySQL.
+- 🚀 أعمل على مشروع **Book DZ**، وهو قالب لمكتبة إلكترونية باستخدام **nod.js-express ,Mongo-db** 
 - 📚 أتعلم **MySQL** وأطبق ما أتعلمه في مشاريعي العملية.
 
 ## 📫 كيف تتواصل معي؟
