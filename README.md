@@ -26,38 +26,3 @@ I am a passionate web developer, interested in front-end development and user ex
 
 🌟 Feel free to explore my projects and contribute your ideas! 😊  
 
-<hr>
- <div align="center">
-   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&duration=2000&pause=1000&color=00F72B&center=true&vCenter=true&width=435&lines=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7+%D8%A8%D9%83%D9%85+%D9%81%D9%8A+%D9%85%D9%84%D9%81%D9%8A+%D8%A7%D9%84%D8%B3%D8%AE%D8%B5%D9%8A;%D8%A7%D9%86%D8%A7+%D9%85%D8%B7%D9%88%D8%B1+%D9%88%D8%A7%D8%AC%D9%87%D8%A9+%D8%A7%D9%85%D8%A7%D9%85%D9%8A%D8%A9;%D8%AA%D8%A7%D9%88%D8%B5%D9%84++%D9%85%D8%B9%D9%8A+!)](https://git.io/typing-svg)
-   
- </div>
-
-
-## 💡 نبذة عني
-أنا مطور ويب شغوف، مهتم بتطوير الواجهات وتجربة المستخدم، وأعمل على تحسين مهاراتي في البرمجة يومًا بعد يوم. أحب بناء مشاريع عملية واكتشاف تقنيات جديدة.
-
-🌍 أنا من **الجزائر** وعُمري **15 سنة**.
-
-## 🛠 المهارات والتقنيات
-- 💻 **تقنيات الويب**: HTML, CSS, JavaScript,nod.js-express ,Mongo-db**
-- - 🗄 **قواعد البيانات**: **Mongo-db**
-- ⚙ **إطارات العمل**: tlw
-- 🖥 **أنظمة التشغيل**: Ubuntu
-
-## 📌 المشاريع الحالية
-- 🚀 أعمل على مشروع **Book DZ**، وهو قالب لمكتبة إلكترونية باستخدام **nod.js-express ,Mongo-db** 
-- 📚 أتعلم **MySQL** وأطبق ما أتعلمه في مشاريعي العملية.
-
-## 📫 كيف تتواصل معي؟
-- 📧 **البريد الإلكتروني**: rlqyyn@gmail.com
-- 🔗 **GitHub**: [mouaiz-09](https://github.com/mouaiz-09)
-- 📸 **Instagram**: [abde.elmouazi](https://www.instagram.com/abde.elmouazi/)
-
-🌟 لا تتردد في استكشاف مشاريعي والمساهمة بأفكارك! 😊
-
-
-<!---
-mouaiz-09/mouaiz-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
