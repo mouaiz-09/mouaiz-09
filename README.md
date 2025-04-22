@@ -10,13 +10,13 @@ I am a passionate web developer, interested in front-end development and user ex
 🌍 I'm from **Algeria**, and I'm **15 years old**.  
 
 ## 🛠 Skills & Technologies  
-- 💻 **Web Technologies**: HTML, CSS, JavaScript,nod.js-express  
+- 💻 **Web Technologies**: HTML, CSS, JavaScript,node.js-express  
 - 🗄 **Databases**: mongo db  
-- ⚙ **Frameworks**: tl  
 - 🖥 **Operating Systems**: Ubuntu  
 
 ## 📌 Current Projects  
-- 🚀 Working on **Book DZ**
+- 🚀 Working on   [**book-dz**](https://github.com/mouaiz-09/book-dz)
+
 - 📚 Learning **nod.js-express ,Mongo-db** and applying it to my projects.  
 
 ## 📫 How to Reach Me?  
