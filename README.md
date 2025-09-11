@@ -5,9 +5,9 @@
 </p>
 
 
+---
 
-
-
+<div>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🛠️ Tech Stack  
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
+</div>
 ---
 
 ## 📊 GitHub Stats  
