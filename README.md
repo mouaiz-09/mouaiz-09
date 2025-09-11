@@ -1,18 +1,12 @@
 # 👋 Hi, I'm Abdo  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=🚀+Fullstack+Developer;💻+MERN+Stack+Enthusiast;🔥+Always+learning+new+tech" alt="Typing SVG" />
+  <img src="https://i.giphy.com/dMLmQfCO7lCA2gX3tw.webp" />
 </p>
 
 
 
-## 🧑‍💻 About Me  
-- 🚀 Fullstack Developer (MERN Stack)  
-- 💡 Passionate about clean code & modern UI/UX  
-- 🌱 Always learning and building side projects  
-- 🎯 Goal: Deliver impactful, scalable apps  
 
----
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -47,7 +41,13 @@
 
 
 
+## 🧑‍💻 About Me  
+- 🚀 Fullstack Developer (MERN Stack)  
+- 💡 Passionate about clean code & modern UI/UX  
+- 🌱 Always learning and building side projects  
+- 🎯 Goal: Deliver impactful, scalable apps  
 
+---
 
 ## 🎉 Fun Facts  :
 - ☕ Coffee is my fuel  
