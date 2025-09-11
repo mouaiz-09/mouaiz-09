@@ -1,28 +1,71 @@
+# 👋 Hi, I'm Abdo  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=🚀+Fullstack+Developer;💻+MERN+Stack+Enthusiast;🔥+Always+learning+new+tech" alt="Typing SVG" />
+</p>
+
+
+
+## 🧑‍💻 About Me  
+- 🚀 Fullstack Developer (MERN Stack)  
+- 💡 Passionate about clean code & modern UI/UX  
+- 🌱 Always learning and building side projects  
+- 🎯 Goal: Deliver impactful, scalable apps  
+
+---
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+## 🛠️ Tech Stack  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mouaiz-09&show_icons=true&theme=radical" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouaiz-09&theme=radical" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaiz-09&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📈 Activity Graph  
+![Abdo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mouaiz-09&theme=react-dark&hide_border=true&area=true)
+
+
+
+
+
+## 🎉 Fun Facts  :
+- ☕ Coffee is my fuel  
+- 🎮 Gamer when I’m AFK  
+- 🐧 Linux lover (Ubuntu & Archcraft)  
+- ⚡ Fast learner, love experimenting  
+
+
+
+## 🌐 Connect With Me :
+<p align="center">
+  <a href="mailto:rlqyyn@gmail.com"><img src="https://img.shields.io/badge/Email-rlqyyn%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
  <div align="center">
-   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&duration=3000&pause=1000&color=1FF704&center=true&vCenter=true&repeat=false&width=442&height=55&lines=Welcome+to+my+GitHub+profile!;I+am+a+front-end+web+developer;Contact+me)](https://git.io/typing-svg)
+  
+![Visitors](https://komarev.com/ghpvc/?username=mouaiz-09&label=Profile+Views&color=2F81F7&style=flat-square)  
 
- </div>
-
-## 💡 About Me  
-I am a passionate web developer, interested in front-end development and user experience. I strive to improve my programming skills every day. I love building practical projects and exploring new technologies.  
-
-🌍 I'm from **Algeria**, and I'm **15 years old**.  
-
-## 🛠 Skills & Technologies  
-- 💻 **Web Technologies**: ***HTML, CSS, JavaScript,node.js-express***
-- 🗄 **Databases**: ***Mongo db*** 
-- 🖥 **Operating Systems**: ***Ubuntu***  
-
-## 📌 Current Projects  
-- 🚀 Working on   [**book-dz**](https://github.com/mouaiz-09/book-dz)
-
-- 📚 Learning:**nod.js-express ,Mongo-db**  
-
-## 📫 How to Reach Me?  
-- 📧 **Email**: rlqyyn@gmail.com  
-- 🔗 **GitHub**: [mouaiz-09](https://github.com/mouaiz-09)  
-- 📸 **Instagram**: [abde.elmouazi](https://www.instagram.com/abde.elmouazi/)  
-
-🌟 Feel free to explore my projects and contribute your ideas! 😊  
-
+⭐️  don’t forget to **Follow** & **Star** 🙌
