@@ -5,10 +5,10 @@
 </p>
 
 
----
+
 
 <div>
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ## 🛠️ Tech Stack  
 <p>
@@ -19,22 +19,22 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  
 </p>
 </div>
----
+
 
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mouaiz-09&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mouaiz-09&theme=radical" height="180em" />
+
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaiz-09&layout=compact&theme=radical" />
 </p>
 
----
+
 
 ## 📈 Activity Graph  
 ![Abdo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mouaiz-09&theme=react-dark&hide_border=true&area=true)
