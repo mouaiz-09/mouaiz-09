@@ -58,10 +58,11 @@
 
 
 ## 🌐 Connect With Me :
-<p align="center">
+<div align="center">
   <a href="mailto:rlqyyn@gmail.com"><img src="https://img.shields.io/badge/Email-rlqyyn%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/mouaiz-09/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+   <a href="https://www.instagram.com/mouaiz.1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
 </p>
 
  <div align="center">
