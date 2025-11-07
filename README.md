@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdo  
+  # 👋 Hi, I'm Mouaiz  
 
 <p align="center">
   <img src="https://i.giphy.com/dMLmQfCO7lCA2gX3tw.webp" />
@@ -27,12 +27,10 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mouaiz-09&show_icons=true&theme=radical" height="180em" />
-
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaiz-09&layout=compact&theme=radical" />
 </p>
+
+
 
 
 
@@ -46,14 +44,6 @@
 - 💡 Passionate about clean code & modern UI/UX  
 - 🌱 Always learning and building side projects  
 - 🎯 Goal: Deliver impactful, scalable apps  
-
----
-
-## 🎉 Fun Facts  :
-- ☕ Coffee is my fuel  
-- 🎮 Gamer when I’m AFK  
-- 🐧 Linux lover (Ubuntu & Archcraft)  
-- ⚡ Fast learner, love experimenting  
 
 
 
