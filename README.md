@@ -24,16 +24,6 @@
 </div>
 
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouaiz-09&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouaiz-09&layout=compact&theme=radical" />
-</p>
-
-
-
-
-
 ## 📈 Activity Graph  
 ![Abdo's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mouaiz-09&theme=react-dark&hide_border=true&area=true)
 
